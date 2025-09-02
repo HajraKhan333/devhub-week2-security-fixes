@@ -13,9 +13,9 @@ The fixes included input validation, password hashing, JWT authentication, and H
 - 
 
 ##  Deliverables
-- 📄 [Week 2 Report (PDF)](./Week2-Report.pdf)  
+- 📄 [Week 2 Report (PDF)](./Week2.pdf)  
 - 🎥 [Video Demonstration](https://drive.google.com/file/d/11af1hku3V2KUn3RdFZHgyzKrvtYyHyPi/view?usp=sharing)
-- 
+
 
 ## ✅ Summary
 - Weak input validation fixed with `validator`.  
